@@ -34,7 +34,7 @@
     "access": "public"
   },
   "main": "./dist/index.node.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/types/index.d.ts",
   "exports": {
     "import": "./dist/index.mjs",
     "require": "./dist/index.node.js"
